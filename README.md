@@ -5,7 +5,7 @@
 
 * [Chatius](https://github.com/weneedmoreflags/upmlctf-2018/tree/master/Chatius)
 * [Ultimate Shortening](https://github.com/weneedmoreflags/upmlctf-2018/tree/master/Ultimate%20Shortening)
-* [Secret Keeper]
+* [Secret Keeper](https://github.com/weneedmoreflags/upmlctf-2018/tree/master/Secret%20Keeper)
 * [Certificate Mess](https://github.com/weneedmoreflags/upmlctf-2018/tree/master/Certificate%20Mess)
 * [Message](https://github.com/weneedmoreflags/upmlctf-2018/tree/master/Message)
 * [The Capital]
@@ -16,5 +16,5 @@
 * [Telegram](https://github.com/weneedmoreflags/upmlctf-2018/tree/master/Telegram)
 * [Phantom Maze](https://github.com/weneedmoreflags/upmlctf-2018/tree/master/Phantom%20Maze)
 * [TeeMoorka.Network](https://github.com/weneedmoreflags/upmlctf-2018/tree/master/TeeMoorka.Network)
-* [Ключи Шифрования)
+* [Ключи Шифрования]
 * [Американский Шпион](https://github.com/weneedmoreflags/upmlctf-2018/tree/master/American%20Spy)
