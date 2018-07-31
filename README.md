@@ -18,3 +18,5 @@
 * [TeeMoorka.Network](https://github.com/weneedmoreflags/upmlctf-2018/tree/master/TeeMoorka.Network)
 * [Ключи Шифрования](https://github.com/weneedmoreflags/upmlctf-2018/tree/master/Encryption%20Keys)
 * [Американский Шпион](https://github.com/weneedmoreflags/upmlctf-2018/tree/master/American%20Spy)
+
+Оптимальность решений не гарантируем. :)
