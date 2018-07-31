@@ -1,4 +1,4 @@
-# Certificate Mess - recon, 200 баллов
+# Certificate Mess - Recon, 200 баллов
 Автор таска: nsychev
 
 Как вы могли заметить, [сайт нашего цтфа](https://ctf.upml.tech/) открывается по безопасному протоколу HTTPS.
