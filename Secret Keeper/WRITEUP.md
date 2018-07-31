@@ -4,4 +4,4 @@
 2. Использовать их, а также метод [forwardMessage](https://core.telegram.org/bots/api#forwardmessage) для пересылки себе сообщений из чата с Никитой
 3. Среди сообщений находим и флаг
 
-**Флаг:** uctf_t0k3n_l34k_found
+**Флаг:** `uctf_t0k3n_l34k_found`
