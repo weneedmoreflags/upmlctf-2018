@@ -25,5 +25,6 @@
     } else { f(); }
 })(document, window, "yandex_metrika_callbacks2");
 ```
-Идем по https://metrika.yandex.ru/dashboard?id=49779784, видим статистику сайта и сгенерированные страницы, среди которых находим и ссылку на флаг: https://ugra.ml/hHk2l. <br>
+Идем по https://metrika.yandex.ru/dashboard?id=49779784, видим статистику сайта и сгенерированные страницы, среди которых находим и ссылку на флаг: https://ugra.ml/hHk2l. 
+
 **Флаг:** `uctf_pl3as3_d0nt_f0110w_me`
