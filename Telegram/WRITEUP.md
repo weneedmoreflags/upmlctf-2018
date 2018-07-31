@@ -5,4 +5,4 @@
 `ssh proxy@socks.ctf.upml.tech cat super_secret_file.txt` - получаем флаг
 
 P.S. В первые минуты после публикации таска можно было пойти иным способом - использовать логин и пароль для подключения по SFTP и посмотреть флаг так, как мы и сделали :)<br>
-**Флаг:** uctf_lock_proxy_users_properly
+**Флаг:** `uctf_lock_proxy_users_properly`
