@@ -12,7 +12,7 @@
 * [Белый Квадрат](https://github.com/weneedmoreflags/upmlctf-2018/tree/master/White%20square)
 * [Guess Me](https://github.com/weneedmoreflags/upmlctf-2018/tree/master/Guess%20Me)
 * [Totally not a REverse task](https://github.com/weneedmoreflags/upmlctf-2018/tree/master/Totally%20not%20a%20REverse%20task)
-* [B64]
+* [B64](https://github.com/weneedmoreflags/upmlctf-2018/tree/master/B64)
 * [Telegram](https://github.com/weneedmoreflags/upmlctf-2018/tree/master/Telegram)
 * [Phantom Maze](https://github.com/weneedmoreflags/upmlctf-2018/tree/master/Phantom%20Maze)
 * [TeeMoorka.Network](https://github.com/weneedmoreflags/upmlctf-2018/tree/master/TeeMoorka.Network)
